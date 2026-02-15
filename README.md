@@ -103,9 +103,9 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 347 | 🐛 172 | 🌐 Rust | 📅 2026-02-13 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 348 | 🐛 175 | 🌐 Rust | 📅 2026-02-13 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-13 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-14 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -158,7 +158,7 @@
 ### Client Libraries
 
 * [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 971 | 🐛 86 | 🌐 TypeScript | 📅 2026-02-10 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
-* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 86 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-15 - A library for connecting apps with Stacks accounts.
+* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 86 | 🐛 46 | 🌐 TypeScript | 📅 2026-01-15 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
 * [go-stacks](https://github.com/cbadawi/go-stacks) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2025-02-09 - Golang SDK for interacting with the stacks blockchain.
