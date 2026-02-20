@@ -103,7 +103,7 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 349 | 🐛 181 | 🌐 Rust | 📅 2026-02-18 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 349 | 🐛 177 | 🌐 Rust | 📅 2026-02-19 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 * [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-16 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
@@ -158,7 +158,7 @@
 ### Client Libraries
 
 * [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 971 | 🐛 84 | 🌐 TypeScript | 📅 2026-02-18 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
-* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 86 | 🐛 46 | 🌐 TypeScript | 📅 2026-01-15 - A library for connecting apps with Stacks accounts.
+* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 86 | 🐛 45 | 🌐 TypeScript | 📅 2026-02-19 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
 * [go-stacks](https://github.com/cbadawi/go-stacks) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2025-02-09 - Golang SDK for interacting with the stacks blockchain.
@@ -171,7 +171,7 @@
 
 ### Indexing and Querying APIs
 
-* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 35 | 🐛 15 | 🌐 Shell | 📅 2025-11-23 - Tool to run a self-hosted Stacks node with Docker.
+* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 35 | 🐛 14 | 🌐 Shell | 📅 2025-11-23 - Tool to run a self-hosted Stacks node with Docker.
 * [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) ⭐ 10 | 🐛 0 | 🌐 Dockerfile | 📅 2023-02-18 - One-click deploy tool to self-host a Stacks node on Render.
 * [Stacks Monitoring](https://github.com/alexlmiller/stacks-monitoring) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-25 - Grafana Dashboard for Stacks nodes.
 * [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the Blockchain to query information, broadcast transactions, and scale your projects on Stacks.
