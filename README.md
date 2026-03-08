@@ -97,22 +97,22 @@
 * [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 * [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
 * [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
-* [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code](https://github.com/StackingDAO/stacking-tracker) ⭐ 2 | 🐛 20 | 🌐 TypeScript | 📅 2025-12-10.
+* [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code](https://github.com/StackingDAO/stacking-tracker) ⭐ 2 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-05.
 
 ## Clarity Resources
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 349 | 🐛 180 | 🌐 Rust | 📅 2026-02-20 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-* [Clarigen](https://github.com/obylabs/clarigen) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-20 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 351 | 🐛 182 | 🌐 Rust | 📅 2026-03-06 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-07 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
 
 ### Example Contracts
 
-* [Audited Example Smart Contracts](https://github.com/clarity-lang/book/tree/main/projects) ⭐ 80 | 🐛 14 | 🌐 TypeScript | 📅 2025-09-15 - Another collection of smart contract examples, these have been audited for security.
+* [Audited Example Smart Contracts](https://github.com/clarity-lang/book/tree/main/projects) ⭐ 82 | 🐛 14 | 🌐 TypeScript | 📅 2025-09-15 - Another collection of smart contract examples, these have been audited for security.
 * [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 * [Example Contracts](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
 
@@ -128,14 +128,14 @@
 * [CityCoin](https://github.com/citycoins/citycoin) ⭐ 69 | 🐛 2 | 🌐 Clarity | 📅 2023-03-29 - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 * [SWAPR](https://github.com/psq/swapr) ⭐ 52 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-04 - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 * [ExecutorDAO](https://github.com/MarvinJanssen/executor-dao) ⭐ 52 | 🐛 1 | 🌐 Clarity | 📅 2022-07-11 - A Clarity framework for building DAO functionality into your smart contracts.
-* [MultiSafe](https://github.com/Trust-Machines/multisafe) ⭐ 29 | 🐛 3 | 🌐 Clarity | 📅 2022-12-23 - A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
+* [MultiSafe](https://github.com/Trust-Machines/multisafe) ⭐ 29 | 🐛 4 | 🌐 Clarity | 📅 2022-12-23 - A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
 * [ClarityDAO](https://github.com/friedger/clarity-dao) ⭐ 23 | 🐛 9 | 🌐 TypeScript | 📅 2022-04-28 - A conversion of Moloch DAO in Clarity.
-* [FLEXR](https://github.com/psq/flexr) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-08 - An interpretation of Ampleforth for Stacks.
+* [FLEXR](https://github.com/psq/flexr) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-08 - An interpretation of Ampleforth for Stacks.
 * [NFT Marketplace](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) ⭐ 17 | 🐛 0 | 🌐 Clarity | 📅 2024-10-18 - Clarity smart contract for a marketplace of tradable assets.
 * [StackStarter](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) ⭐ 14 | 🐛 7 | 🌐 JavaScript | 📅 2020-08-24 - Clarity smart contract for crowdfunding.
 * [Charisma](https://github.com/pointblankdev/dungeon-master) ⭐ 5 | 🐛 0 | 🌐 Clarity | 📅 2024-08-08 - Community-run memecoin DAO on the Stacks Blockchain.
 * [DualX](https://github.com/westridgeblockchain/dualX) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-14 - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
-* [Lightning Swaps](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2020-12-22 - Fraud-proof swaps using Lightning Network.
+* [Lightning Swaps](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2020-12-22 - Fraud-proof swaps using Lightning Network.
 * [Election Voting](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2022-12-30 - Basic voting for candidates using Clarity.
 * [Digital Will](https://github.com/LoRdSoban/Cryptonomers) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2022-02-05 - Conditional fund transfers.
 
@@ -157,21 +157,21 @@
 
 ### Client Libraries
 
-* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 971 | 🐛 84 | 🌐 TypeScript | 📅 2026-02-18 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
-* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 87 | 🐛 45 | 🌐 TypeScript | 📅 2026-02-20 - A library for connecting apps with Stacks accounts.
+* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 972 | 🐛 83 | 🌐 TypeScript | 📅 2026-02-23 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
+* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 87 | 🐛 45 | 🌐 TypeScript | 📅 2026-03-06 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
-* [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
+* [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
 * [go-stacks](https://github.com/cbadawi/go-stacks) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2025-02-09 - Golang SDK for interacting with the stacks blockchain.
-* [Sign-In With Stacks](https://github.com/pradel/sign-in-with-stacks/) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-20 - A library for creating and verifying Sign-In with Stacks messages.
+* [Sign-In With Stacks](https://github.com/pradel/sign-in-with-stacks/) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-21 - A library for creating and verifying Sign-In with Stacks messages.
 * [x402 Stacks](https://www.x402stacks.xyz) - A protocol and SDK for building payment-gated APIs on the Stacks Blockchain.
 
 ### CLI
 
-* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 971 | 🐛 84 | 🌐 TypeScript | 📅 2026-02-18 - Command line interface for interacting with auth, storage, and transactions.
+* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 972 | 🐛 83 | 🌐 TypeScript | 📅 2026-02-23 - Command line interface for interacting with auth, storage, and transactions.
 
 ### Indexing and Querying APIs
 
-* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 35 | 🐛 14 | 🌐 Shell | 📅 2025-11-23 - Tool to run a self-hosted Stacks node with Docker.
+* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 35 | 🐛 15 | 🌐 Shell | 📅 2025-11-23 - Tool to run a self-hosted Stacks node with Docker.
 * [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) ⭐ 10 | 🐛 0 | 🌐 Dockerfile | 📅 2023-02-18 - One-click deploy tool to self-host a Stacks node on Render.
 * [Stacks Monitoring](https://github.com/alexlmiller/stacks-monitoring) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-25 - Grafana Dashboard for Stacks nodes.
 * [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the Blockchain to query information, broadcast transactions, and scale your projects on Stacks.
