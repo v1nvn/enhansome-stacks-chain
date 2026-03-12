@@ -103,7 +103,7 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 189 | 🌐 Rust | 📅 2026-03-10 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 187 | 🌐 Rust | 📅 2026-03-11 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 * [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-11 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
@@ -157,7 +157,7 @@
 
 ### Client Libraries
 
-* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 972 | 🐛 83 | 🌐 TypeScript | 📅 2026-02-23 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
+* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 972 | 🐛 84 | 🌐 TypeScript | 📅 2026-02-23 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
 * [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 87 | 🐛 45 | 🌐 TypeScript | 📅 2026-03-06 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
@@ -167,7 +167,7 @@
 
 ### CLI
 
-* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 972 | 🐛 83 | 🌐 TypeScript | 📅 2026-02-23 - Command line interface for interacting with auth, storage, and transactions.
+* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 972 | 🐛 84 | 🌐 TypeScript | 📅 2026-02-23 - Command line interface for interacting with auth, storage, and transactions.
 
 ### Indexing and Querying APIs
 
