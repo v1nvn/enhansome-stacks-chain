@@ -97,13 +97,13 @@
 * [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 * [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
 * [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
-* [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code](https://github.com/StackingDAO/stacking-tracker) ⭐ 2 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-13.
+* [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code](https://github.com/StackingDAO/stacking-tracker) ⭐ 2 | 🐛 19 | 🌐 TypeScript | 📅 2026-03-15.
 
 ## Clarity Resources
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 185 | 🌐 Rust | 📅 2026-03-13 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 186 | 🌐 Rust | 📅 2026-03-13 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 * [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-15 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
