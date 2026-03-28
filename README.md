@@ -103,9 +103,9 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 353 | 🐛 187 | 🌐 Rust | 📅 2026-03-26 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 353 | 🐛 187 | 🌐 Rust | 📅 2026-03-27 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-25 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-27 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -171,7 +171,7 @@
 
 ### Indexing and Querying APIs
 
-* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 36 | 🐛 15 | 🌐 Shell | 📅 2026-03-12 - Tool to run a self-hosted Stacks node with Docker.
+* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 36 | 🐛 15 | 🌐 Shell | 📅 2026-03-27 - Tool to run a self-hosted Stacks node with Docker.
 * [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) ⭐ 10 | 🐛 0 | 🌐 Dockerfile | 📅 2023-02-18 - One-click deploy tool to self-host a Stacks node on Render.
 * [Stacks Monitoring](https://github.com/alexlmiller/stacks-monitoring) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-25 - Grafana Dashboard for Stacks nodes.
 * [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the Blockchain to query information, broadcast transactions, and scale your projects on Stacks.
