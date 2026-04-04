@@ -171,7 +171,7 @@
 
 ### Indexing and Querying APIs
 
-* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 36 | 🐛 15 | 🌐 Shell | 📅 2026-04-02 - Tool to run a self-hosted Stacks node with Docker.
+* [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 36 | 🐛 15 | 🌐 Shell | 📅 2026-04-03 - Tool to run a self-hosted Stacks node with Docker.
 * [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) ⭐ 10 | 🐛 0 | 🌐 Dockerfile | 📅 2023-02-18 - One-click deploy tool to self-host a Stacks node on Render.
 * [Stacks Monitoring](https://github.com/alexlmiller/stacks-monitoring) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-25 - Grafana Dashboard for Stacks nodes.
 * [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the Blockchain to query information, broadcast transactions, and scale your projects on Stacks.
