@@ -97,7 +97,7 @@
 * [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 * [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
 * [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
-* [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code](https://github.com/StackingDAO/stacking-tracker) ⭐ 2 | 🐛 20 | 🌐 TypeScript | 📅 2026-04-30.
+* [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code](https://github.com/StackingDAO/stacking-tracker) ⭐ 2 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-30.
 
 ## Clarity Resources
 
