@@ -103,7 +103,7 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 354 | 🐛 184 | 🌐 Rust | 📅 2026-04-29 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 354 | 🐛 186 | 🌐 Rust | 📅 2026-05-05 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 * [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-05 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
