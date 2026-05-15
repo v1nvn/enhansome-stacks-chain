@@ -61,7 +61,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T21:14:25Z",
+            "last_commit": "2026-05-15T05:43:46Z",
             "owner": "ryanwaits",
             "repo": "secondlayer",
             "stars": 3
@@ -93,7 +93,7 @@
             "last_commit": "2025-09-15T21:19:48Z",
             "owner": "clarity-lang",
             "repo": "book",
-            "stars": 82
+            "stars": 83
           }
         }
       ],
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:43:35.852Z",
+    "last_updated": "2026-05-15T05:50:58.285Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "source_repository": "v1nvn/enhansome-stacks-chain",
     "source_repository_description": null,

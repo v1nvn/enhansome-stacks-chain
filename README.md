@@ -103,16 +103,16 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 353 | 🐛 187 | 🌐 Rust | 📅 2026-05-13 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 353 | 🐛 188 | 🌐 Rust | 📅 2026-05-13 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-13 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-15 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
 
 ### Example Contracts
 
-* [Audited Example Smart Contracts](https://github.com/clarity-lang/book/tree/main/projects) ⭐ 82 | 🐛 15 | 🌐 TypeScript | 📅 2025-09-15 - Another collection of smart contract examples, these have been audited for security.
+* [Audited Example Smart Contracts](https://github.com/clarity-lang/book/tree/main/projects) ⭐ 83 | 🐛 15 | 🌐 TypeScript | 📅 2025-09-15 - Another collection of smart contract examples, these have been audited for security.
 * [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 * [Example Contracts](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
 
