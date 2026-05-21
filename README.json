@@ -20,7 +20,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-19T20:35:56Z",
+            "last_commit": "2026-05-20T18:17:56Z",
             "owner": "stx-labs",
             "repo": "clarinet",
             "stars": 352
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T20:08:29Z",
+            "last_commit": "2026-05-20T17:11:36Z",
             "owner": "stx-labs",
             "repo": "stacks.js",
             "stars": 973
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:02:26.603Z",
+    "last_updated": "2026-05-21T06:05:23.211Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "source_repository": "v1nvn/enhansome-stacks-chain",
     "source_repository_description": null,
