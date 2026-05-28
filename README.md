@@ -157,7 +157,7 @@
 
 ### Client Libraries
 
-* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 975 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-26 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
+* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 976 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-27 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
 * [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 88 | 🐛 47 | 🌐 TypeScript | 📅 2026-03-12 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
@@ -167,13 +167,13 @@
 
 ### CLI
 
-* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 975 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-26 - Command line interface for interacting with auth, storage, and transactions.
+* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 976 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-27 - Command line interface for interacting with auth, storage, and transactions.
 
 ### Indexing and Querying APIs
 
 * [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) ⭐ 36 | 🐛 15 | 🌐 Shell | 📅 2026-04-09 - Tool to run a self-hosted Stacks node with Docker.
 * [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) ⭐ 10 | 🐛 0 | 🌐 Dockerfile | 📅 2023-02-18 - One-click deploy tool to self-host a Stacks node on Render.
-* [Stacks Monitoring](https://github.com/alexlmiller/stacks-monitoring) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-25 - Grafana Dashboard for Stacks nodes.
+* [Stacks Monitoring](https://github.com/alexlmiller/stacks-monitoring) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-27 - Grafana Dashboard for Stacks nodes.
 * [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the Blockchain to query information, broadcast transactions, and scale your projects on Stacks.
 * [Quicknode](https://www.quicknode.com/chains/stx) - Hosted ednpoint to quickly and easily connect to Stacks using Quicknode.
 * [Self-Hosted Digital Ocean](https://marketplace.digitalocean.com/apps/stacks-blockchain) - Digital Ocean droplet for running a Stacks node.
