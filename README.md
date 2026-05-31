@@ -157,7 +157,7 @@
 
 ### Client Libraries
 
-* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 975 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-29 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
+* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 975 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-30 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
 * [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 88 | 🐛 47 | 🌐 TypeScript | 📅 2026-03-12 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
@@ -167,7 +167,7 @@
 
 ### CLI
 
-* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 975 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-29 - Command line interface for interacting with auth, storage, and transactions.
+* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 975 | 🐛 88 | 🌐 TypeScript | 📅 2026-05-30 - Command line interface for interacting with auth, storage, and transactions.
 
 ### Indexing and Querying APIs
 
