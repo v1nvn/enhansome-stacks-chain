@@ -105,7 +105,7 @@
 
 * [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 353 | 🐛 185 | 🌐 Rust | 📅 2026-06-05 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-06 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-06 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -119,7 +119,7 @@
 ### Libraries & Protocols
 
 * [STX20](https://github.com/fess-v/stx20-standard) ⭐ 26 | 🐛 8 | 📅 2024-09-05 - Protocol to create and share digital artifacts on Stacks.
-* [clarity-bitcoin](https://github.com/friedger/clarity-bitcoin) ⭐ 20 | 🐛 4 | 🌐 Clarity | 📅 2025-06-04 - A library to verify Bitcoin transactions.
+* [clarity-bitcoin](https://github.com/friedger/clarity-bitcoin) ⭐ 19 | 🐛 4 | 🌐 Clarity | 📅 2025-06-04 - A library to verify Bitcoin transactions.
 * [uint256](https://github.com/KStasi/clarity-uint256-lib) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2020-08-17 - A library for converting values into 256-bits.
 * [blaze](https://gist.github.com/r0zar/414e91d3e6769644981b4918141a1708) - A protocol for signature-based authorization.
 
