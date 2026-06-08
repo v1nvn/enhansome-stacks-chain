@@ -61,7 +61,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-06T22:01:25Z",
+            "last_commit": "2026-06-07T22:26:46Z",
             "owner": "ryanwaits",
             "repo": "secondlayer",
             "stars": 5
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:19:03.052Z",
+    "last_updated": "2026-06-08T06:38:26.945Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "source_repository": "v1nvn/enhansome-stacks-chain",
     "source_repository_description": null,
